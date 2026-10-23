@@ -1,6 +1,6 @@
 # The Weight of The Future
 
-Case study for Strategic FINA 475 (Strategic Financial Management)
+Case study for FINA 475 (Strategic Financial Management)
 
 ## View the report
 
